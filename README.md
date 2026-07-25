@@ -2,6 +2,8 @@
 
 React + Vite medicine inventory app with an Express + Postgres backend.
 
+Website link - www.aushiva.co.in
+
 ## Included
 
 - Dashboard with summary cards, category donut, demand bars, and expiry alerts
