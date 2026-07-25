@@ -1,4 +1,4 @@
-# Aushiva React Template
+# Aushiva - React Web Application
 
 React + Vite medicine inventory app with an Express + Postgres backend.
 
@@ -33,6 +33,6 @@ React + Vite medicine inventory app with an Express + Postgres backend.
 
 ## Notes
 
-- Demo login: `admin@aushiva.local` / `admin123`
+- Demo login: `aushiva2026@gmail.com` / `Admin@123`
 - Inventory changes persist in the Postgres database configured by `backend/.env`.
 - For Gmail OTP signup, add EmailJS keys to `.env` (see `.env.example`) and create an EmailJS template with `to_email`, `to_name`, and `otp_code` variables.
